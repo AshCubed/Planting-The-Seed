@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: ea8fad69463b27d4296b76d2d7630e3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6303238008108012028
+    second: Peep Sprites_0
+  - first:
+      213: 5700667270298300389
+    second: Peep Sprites_1
+  - first:
+      213: 2896079894216120580
+    second: Peep Sprites_2
+  - first:
+      213: 1904506461010488869
+    second: Peep Sprites_3
+  - first:
+      213: 7361148260151661829
+    second: Peep Sprites_4
+  - first:
+      213: 6033307284220304532
+    second: Peep Sprites_5
+  - first:
+      213: -8065910348410577991
+    second: Peep Sprites_6
+  - first:
+      213: 3576030465240791748
+    second: Peep Sprites_7
+  - first:
+      213: 3305106273710555872
+    second: Peep Sprites_8
+  - first:
+      213: 5992360484740936629
+    second: Peep Sprites_9
+  - first:
+      213: -2486675777311521726
+    second: Peep Sprites_10
+  - first:
+      213: -6489632348611987270
+    second: Peep Sprites_11
+  - first:
+      213: -8365655673440696002
+    second: Peep Sprites_12
+  - first:
+      213: -7437652090716951535
+    second: Peep Sprites_13
+  - first:
+      213: -651864290176778267
+    second: Peep Sprites_14
+  - first:
+      213: 7220746040484345907
+    second: Peep Sprites_15
+  - first:
+      213: -1181079261667380030
+    second: Peep Sprites_16
+  - first:
+      213: -4515669669412759317
+    second: Peep Sprites_17
+  - first:
+      213: -1519549819335763891
+    second: Peep Sprites_18
+  - first:
+      213: 6522805261351596864
+    second: Peep Sprites_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peep Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 411
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e9d0b17a5ae549a92ee5651442528
+      internalID: 6303238008108012028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 411
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea6dd5457b026498eb5e72280a8017
+      internalID: 5700667270298300389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 411
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b549e1e8c3f7224c98ead86d16e2c72
+      internalID: 2896079894216120580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 411
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6577604c31d814da38af75e15b4cf4
+      internalID: 1904506461010488869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 338
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8376008bd99eb04a80341a8d04f3a81
+      internalID: 7361148260151661829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 338
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26806fd1f4dc854ca86224864a57b37
+      internalID: 6033307284220304532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 338
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42253f9ab8bca704198508048f0f0b4f
+      internalID: -8065910348410577991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 338
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc86ee1abb89042a05158d772e51b3
+      internalID: 3576030465240791748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 264
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5166bebf61bdf4b8aa1db084ed473c
+      internalID: 3305106273710555872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 264
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39963a52b94e37848bda707d0fc0c077
+      internalID: 5992360484740936629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 259
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002e465d414c304ea391375c4409db2
+      internalID: -2486675777311521726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 259
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ff8ba929331144c97a1626e82ca06b
+      internalID: -6489632348611987270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 196
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7d682efd82474aad9693f0cddd9fe
+      internalID: -8365655673440696002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 196
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ba200c68792648b513d83415b2884
+      internalID: -7437652090716951535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 196
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1e8e92b16bb844ab458632c4e87ae
+      internalID: -651864290176778267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 196
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2072aec5d89149f41b259c2fd0475053
+      internalID: 7220746040484345907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 122
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a3eed3799dbc40a22102329b403b0
+      internalID: -1181079261667380030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbce57b68daa1f41a3b8ed1793a4eb7
+      internalID: -4515669669412759317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 122
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab32177137f4242aed3617a0061967
+      internalID: -1519549819335763891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peep Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 122
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283f0b321a49eb48a6471bc87ce00fb
+      internalID: 6522805261351596864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

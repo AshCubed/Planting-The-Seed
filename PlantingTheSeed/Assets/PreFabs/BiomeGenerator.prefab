@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2680767674450734147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680767674450734144}
+  m_Layer: 0
+  m_Name: LeftSpawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680767674450734144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767674450734147}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.73, y: -2.03, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2680767676039128048}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2680767675270479671
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680767675270479668}
+  - component: {fileID: 2680767675270479669}
+  m_Layer: 0
+  m_Name: RightEdge
+  m_TagString: RightCampEdge
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680767675270479668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767675270479671}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.25, y: -0.07, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2680767676039128048}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2680767675270479669
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767675270479671}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -1.0707488}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 7.572192}
+  m_EdgeRadius: 0
+--- !u!1 &2680767675509537215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680767675509537212}
+  - component: {fileID: 2680767675509537213}
+  m_Layer: 0
+  m_Name: LeftEdge
+  m_TagString: LeftCampEdge
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680767675509537212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767675509537215}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.92, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2680767676039128048}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2680767675509537213
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767675509537215}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -1.1076703}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 7.646035}
+  m_EdgeRadius: 0
+--- !u!1 &2680767675795428399
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680767675795428396}
+  m_Layer: 0
+  m_Name: RightSpawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680767675795428396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767675795428399}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.73, y: -2.03, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2680767676039128048}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2680767676039128050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680767676039128048}
+  - component: {fileID: 2680767676039128051}
+  m_Layer: 0
+  m_Name: BiomeGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680767676039128048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767676039128050}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.5031903, y: 2.7645452, z: -25.595058}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2680767675509537212}
+  - {fileID: 2680767674450734144}
+  - {fileID: 2680767675270479668}
+  - {fileID: 2680767675795428396}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2680767676039128051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680767676039128050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d4cdc4971793254aaf0d14cd453007f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AllBiomePrefabs:
+  - Name: Desert
+    camp: {fileID: 4813041842262229700, guid: adb0dcaaac4bf4244bf0cfd241b7e4a6, type: 3}
+    Prefabs:
+    - {fileID: 5720186477761607070, guid: fd328fd25302cfb498611c6521634881, type: 3}
+    - {fileID: 6005037295545661853, guid: a339ffd3e5f81f94d9ec6fd821a72566, type: 3}
+    - {fileID: 5152811950874352328, guid: 372dc1ea44b083146816461bed67d419, type: 3}
+    - {fileID: 4269759620819720073, guid: 79a12b855c73fa448be46a2172d6660b, type: 3}
+    - {fileID: 4973573279649109237, guid: e2d3a2e9277e7c94d9a8784106118648, type: 3}
+    - {fileID: 3379255283735764450, guid: 7b978d58c65b59c43a32bbdde0724a37, type: 3}
+    - {fileID: 552554977885666793, guid: a7d3441a53ba9fa49ac4254760fd73fc, type: 3}
+    - {fileID: 8351923240472229682, guid: 84e31668593b3a54a8203231e2ab207e, type: 3}
+    - {fileID: 336114830450947686, guid: c8984455239c09d4caf89cd789784539, type: 3}
+    - {fileID: 1227040802015939645, guid: 752c192e42440704fbc3805fde0fc071, type: 3}
+  - Name: Forest
+    camp: {fileID: 8280195631133072508, guid: 25c8e461816533e4093fe7603251497d, type: 3}
+    Prefabs:
+    - {fileID: 7921863347166025091, guid: e51334ecde83f054ab9a2d2105d8795e, type: 3}
+    - {fileID: 3925679715262956541, guid: 6a3992948e6f3a44d8cb648829e366be, type: 3}
+    - {fileID: 8105451385347037438, guid: cebd805a318b1434bb004ea2a2bef7fe, type: 3}
+    - {fileID: 8864352263516634518, guid: 5df09e452cb951e499e383462fbc4e53, type: 3}
+    - {fileID: 1295666990388319599, guid: 6d2c7064316c2f74387271a886b72b48, type: 3}
+    - {fileID: 8178966744514680703, guid: 5cf018b4f724cf540baa54e63afcc9e3, type: 3}
+    - {fileID: 7186098666030667565, guid: 4a282b71d3fb6d3429d6af0f41976e91, type: 3}
+    - {fileID: 6134350655377583446, guid: edfc46592639eef40adef5a0125e41c6, type: 3}
+    - {fileID: 5226371275609796535, guid: 5c9f023caee5e2b46a364ada055e9fe4, type: 3}
+    - {fileID: 8535641824189095658, guid: 18f31769cf34a34449dfe6e73e32a52d, type: 3}
+  - Name: Grasslands
+    camp: {fileID: 892632247182305277, guid: 70eb5ee7c2079894f8d3492c28fc7efb, type: 3}
+    Prefabs:
+    - {fileID: 2762418755626206252, guid: c3ead8012fb9ac54fa60c458f4551d1e, type: 3}
+    - {fileID: 6746999788228180364, guid: 3258b1fa867490645aba562055883518, type: 3}
+    - {fileID: 6413811631257942153, guid: 9ae8d6fdb19b10f429e84acf2d8ddf8e, type: 3}
+    - {fileID: 6440112104266976061, guid: 7b1462881340ab140b60b55c4b3111f8, type: 3}
+    - {fileID: 6424474598216596976, guid: 9aeabe8f4a15ae44ea86b2e9b7b4cca0, type: 3}
+    - {fileID: 7794731802953200868, guid: 99fff222a19cf3042bcff224126ac4f7, type: 3}
+    - {fileID: 117747885759568779, guid: 696b091015cb85345b3e8dfd70e3cefe, type: 3}
+    - {fileID: 6582499649239383178, guid: f58ab26eed6edaf4398f8665c0407331, type: 3}
+    - {fileID: 5624922014091517339, guid: 0314e4fe9e34dfb4dbbb6e5f29eb9a6e, type: 3}
+    - {fileID: 186947708287207541, guid: 569cbea1cefab204fbe7cc4399e48b3a, type: 3}
+  - Name: Mountain
+    camp: {fileID: 554455147197340764, guid: 7eb8e76d6ba362345b4c74a43569154d, type: 3}
+    Prefabs:
+    - {fileID: 6249741653532581578, guid: 571ea93726b8b5f479c546c89e462e98, type: 3}
+    - {fileID: 6172791189456571193, guid: 648c53d54ea6f2a4080fdfa539bcddaa, type: 3}
+    - {fileID: 3758844449032709161, guid: 97c1eb33371679643988a3c20dc9bf4d, type: 3}
+    - {fileID: 4050994184373918274, guid: bfc6ca8b43b9ba1479673965c863e270, type: 3}
+    - {fileID: 8984276889119070409, guid: 084a1af3ffab18049882793a090be17b, type: 3}
+    - {fileID: 7065861283099085611, guid: 72ff3d321cadb0449a16ce7e64290c92, type: 3}
+    - {fileID: 8551166718977204122, guid: b602be4e7e9a3e44abcde5236d6c7877, type: 3}
+    - {fileID: 8447697797206134456, guid: 712be5231293af14d8d2f59e38203677, type: 3}
+    - {fileID: 7500278983270139625, guid: e94f27589346c6d44a81e9b8f7a41ad4, type: 3}
+    - {fileID: 1806237110921552163, guid: d9136efde1539494e867982d443b5701, type: 3}
+  - Name: Snow
+    camp: {fileID: 5607829827331856092, guid: 86ec319ed24af4646986dfbb75747cc6, type: 3}
+    Prefabs:
+    - {fileID: 2803754612379395383, guid: 4ac53b33f35eea0429a4ac6979d642c6, type: 3}
+    - {fileID: 3193627943468794243, guid: 54ca109d9e9cb9d46937f073b2125f61, type: 3}
+    - {fileID: 7850748219726404538, guid: 744c759510cbfe749889d985975e0fdc, type: 3}
+    - {fileID: 7943573759052847692, guid: fedec3bcfa555284884960c4f183af7c, type: 3}
+    - {fileID: 7662373752835641833, guid: b4938f93f29d568409728daf72fe7652, type: 3}
+    - {fileID: 5189164560664618151, guid: d84d848f24301c44db1b4a35fd54bd5c, type: 3}
+    - {fileID: 1060337646653624939, guid: 0df68fcb38d534d4484b8ccbedef7872, type: 3}
+    - {fileID: 898376193757479523, guid: 2f69fb475e0a568469d110cbb1db8de6, type: 3}
+    - {fileID: 4367851677978689594, guid: 6f449e8b0abc475429d04c4b4030496c, type: 3}
+    - {fileID: 4312422010116809905, guid: 548644ab51636c44e9828f1f6101fbc8, type: 3}
+  rightEdge: {fileID: 2680767675270479671}
+  leftEdge: {fileID: 2680767675509537215}
+  spawnRight: {fileID: 2680767675795428399}
+  spawnLeft: {fileID: 2680767674450734147}

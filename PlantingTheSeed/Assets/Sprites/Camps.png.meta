@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 0d6ed7fcd223be342ac3d24a7bc92658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1889724663505866777
+    second: Camps_0
+  - first:
+      213: 4207872146008528567
+    second: Camps_1
+  - first:
+      213: 5300295157132080057
+    second: Camps_2
+  - first:
+      213: -8048453148736332385
+    second: Camps_3
+  - first:
+      213: 6014606717276054930
+    second: Camps_4
+  - first:
+      213: 5286500714997113049
+    second: Camps_5
+  - first:
+      213: 789090811234045180
+    second: Camps_6
+  - first:
+      213: 90969998257542337
+    second: Camps_7
+  - first:
+      213: 2776559198757650491
+    second: Camps_8
+  - first:
+      213: 6063732495873289695
+    second: Camps_9
+  - first:
+      213: -2777132556132313710
+    second: Camps_10
+  - first:
+      213: 6626022139217501075
+    second: Camps_11
+  - first:
+      213: -1098568571447643349
+    second: Camps_12
+  - first:
+      213: 3339666720982290976
+    second: Camps_13
+  - first:
+      213: -6177139291100493158
+    second: Camps_14
+  - first:
+      213: -8543891470996836591
+    second: Camps_15
+  - first:
+      213: -1249479545842271093
+    second: Camps_16
+  - first:
+      213: -5301528644733230079
+    second: Camps_17
+  - first:
+      213: -3815094978360656919
+    second: Camps_18
+  - first:
+      213: -7145176317384728929
+    second: Camps_19
+  - first:
+      213: -2292672401037424891
+    second: Camps_20
+  - first:
+      213: 3433243759731620563
+    second: Camps_21
+  - first:
+      213: 4308571174573766391
+    second: Camps_22
+  - first:
+      213: 4902369503126954942
+    second: Camps_23
+  - first:
+      213: 6345661205735429868
+    second: Camps_24
+  - first:
+      213: -524395097875187123
+    second: Camps_25
+  - first:
+      213: -6517889839510882638
+    second: Camps_26
+  - first:
+      213: -1174335201932332745
+    second: Camps_27
+  - first:
+      213: -2994010399439128651
+    second: Camps_28
+  - first:
+      213: 8705189013465949109
+    second: Camps_29
+  - first:
+      213: -4499932809865773406
+    second: Camps_30
+  - first:
+      213: -8481653643849570529
+    second: Camps_31
+  - first:
+      213: -2019840868853595038
+    second: Camps_32
+  - first:
+      213: -9157682444700891080
+    second: Camps_33
+  - first:
+      213: -1831093747329419152
+    second: Camps_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camps_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 951
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db557016c91b034ba6f02d5821df65a
+      internalID: 1889724663505866777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 949
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3696747017e24e828bade47e8f130
+      internalID: 4207872146008528567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 953
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d797bc65cef8b4cbab393ea2511992
+      internalID: 5300295157132080057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 951
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d844cb7ce03042a312d480d9b6ecb
+      internalID: -8048453148736332385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 954
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61204ca16ec7e8d4eb72b0104c526977
+      internalID: 6014606717276054930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 953
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1838fdaf6f01b24fa354bf3a2d14e63
+      internalID: 5286500714997113049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 955
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2286fd76a497354099094bd699e8315
+      internalID: 789090811234045180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 719
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a81fb74385614498486539304c5f4
+      internalID: 90969998257542337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 724
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb389e483228743ad4c6bc9c3e0fde
+      internalID: 2776559198757650491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 724
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0670f3e9c365e47be31dde92c3e0d4
+      internalID: 6063732495873289695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 724
+        width: 43
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86148c87a13841c47b009740131da815
+      internalID: -2777132556132313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 724
+        width: 49
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8064df932ac97ea4798abd57772a2952
+      internalID: 6626022139217501075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 723
+        width: 57
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79122b95a8c3464d8bbafabf700202c
+      internalID: -1098568571447643349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 723
+        width: 49
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57316681418683e4e852fa7b2fafe7f6
+      internalID: 3339666720982290976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_14
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 725
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f15f72f8b7324d9e07713fb43a541
+      internalID: -6177139291100493158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 517
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d449f057b1c64897ecf65df66eaeb
+      internalID: -8543891470996836591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 517
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89972625fcce240bb01e2cfc756ff5
+      internalID: -1249479545842271093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 516
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031165f1194c5147a11a3ace490ea39
+      internalID: -5301528644733230079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 516
+        width: 55
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b625cd620dad144d8e3ff86f81ff52f
+      internalID: -3815094978360656919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 516
+        width: 59
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc13aab68fcfee94fb17fda8ff1cd3a6
+      internalID: -7145176317384728929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 517
+        width: 56
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4cb58d3d259ca468683c76d774fd8c
+      internalID: -2292672401037424891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 517
+        width: 61
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b0ec511a37ae46ba7fbefecef5306
+      internalID: 3433243759731620563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_22
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 516
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d52dec169ea92469252ddfee56c465
+      internalID: 4308571174573766391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 347
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88dc2c97130f704aa316b278805b0bc
+      internalID: 4902369503126954942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 347
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea4bb347a3f7f49b96e14574ba3aac
+      internalID: 6345661205735429868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 346
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a274b0222b642429f7d55e672c7ba1
+      internalID: -524395097875187123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 345
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77397cdb66376994aa297b88d1ea904c
+      internalID: -6517889839510882638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 345
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa6e2b4161269438e4791be224230a
+      internalID: -1174335201932332745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756385c63bb3bc4b967ea2bc95b5992
+      internalID: -2994010399439128651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 199
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ec3e806d0bd548afc09965b5ba596
+      internalID: 8705189013465949109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 198
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b507468f192e64495f44743ab82ee0
+      internalID: -4499932809865773406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 200
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868bfa231881054da3adc961d278f78
+      internalID: -8481653643849570529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 198
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c11a29ec9528488dd7dc168812063
+      internalID: -2019840868853595038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 200
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f0d9196609df43b3a70f4c042f7cb
+      internalID: -9157682444700891080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camps_34
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 201
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a997a2c42db2d4da4f22726db1484e
+      internalID: -1831093747329419152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
